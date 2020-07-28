@@ -1,0 +1,23 @@
+.toolbar{
+    margin:20px 0px;
+}
+span{
+    border: 1px solid black;
+    padding: 10px;
+}
+span:hover, span:active{
+    background-color: lightgreen;
+    cursor: pointer;
+}
+#notes{
+    display:none;
+    width:75%;
+    border: 1px solid black;
+    padding:10px;
+    margin:10px 0px;
+    box-shadow: 5px 5px 2px #aaaaaa;
+}
+h1 a{
+    text-decoration: none;
+    color: black;
+}
